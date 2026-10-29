@@ -96,14 +96,14 @@
     "links": [
       {
         "label": "GitHub",
-        "href": "https://github.com/chio-labs/streambuild",
+        "href": "https://github.com/sqlstack-io/streambuild",
         "type": "github"
       }
     ]
   },
   "footer": {
     "socials": {
-      "github": "https://github.com/chio-labs/streambuild"
+      "github": "https://github.com/sqlstack-io/streambuild"
     }
   }
 }

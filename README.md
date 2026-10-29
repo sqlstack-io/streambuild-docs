@@ -1,6 +1,6 @@
 # StreamBuild documentation
 
-Mintlify documentation for [StreamBuild](https://github.com/chio-labs/streambuild).
+Mintlify documentation for [StreamBuild](https://github.com/sqlstack-io/streambuild).
 
 ## Local preview
 
